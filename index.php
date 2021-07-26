@@ -9,7 +9,7 @@
 </head>
 <body>
     <h2>
-        <a href="filtered.php?word=ciao">Link !!</a>
+        <a href="filtered.php?word=it">Link !!</a>
     </h2>
 </body>
 </html>
